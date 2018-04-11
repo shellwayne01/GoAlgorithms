@@ -20,7 +20,6 @@ func BFS(queue []Node){
   }
 }
 
-
 func main(){
   f := Node{9, []Node{} }
   e := Node{8, []Node{f} }
